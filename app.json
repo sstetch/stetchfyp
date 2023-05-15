@@ -1,7 +1,7 @@
 {
     "name": "KIKI SOURCE",
     "logo": "https://telegra.ph/file/e86bd2a707cb3dc9778c7.jpg",
-    "description": "UFO Music Voice Chat.",
+    "description": "KIKI Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/sstetch/stetchfyp",
     "stack": "container",

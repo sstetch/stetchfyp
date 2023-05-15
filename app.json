@@ -22,12 +22,12 @@
         "BOT_USERNAME": {
             "description": "يوزر نيــم بوتــك منغيــر -> @",
             "required": true,
-            "value": "C94_Bot"
+            "value": "TSHELSY_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "يوزر نيــم أسيستانتــ بوتـ منغيــر ->  @",
             "required": true,
-            "value": "xU99U"
+            "value": "LILITH_TS"
         },
         "BG_IMAGE": {
             "description": "خلــفية",
@@ -42,7 +42,7 @@
         "OWNER_NAME": {
             "description": "حط يوزركـــ منغــير -> @",
             "required": false,
-            "value": "xU99U"
+            "value": "STETCH"
         },
         "API_ID": {
             "description": "حــط App ID from my.telegram.org/apps",
@@ -59,7 +59,7 @@
         "DURATION_LIMIT": {
             "description": "max",
             "required": true,
-            "value": "60"
+            "value": "240"
         },
         "PMPERMIT": {
             "description": "سيــبها.",

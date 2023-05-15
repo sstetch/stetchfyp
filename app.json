@@ -1,9 +1,9 @@
 {
-    "name": "UFOVc",
-    "logo": "https://telegra.ph/file/7618711bbdb9f03ed989e.jpg",
+    "name": "KIKI SOURCE",
+    "logo": "https://telegra.ph/file/e86bd2a707cb3dc9778c7.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/MSaleMD/UFoVC",
+    "repository": "https://github.com/sstetch/stetchfyp",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -32,12 +32,12 @@
         "BG_IMAGE": {
             "description": "خلــفية",
             "required": false,
-            "value": "https://telegra.ph/file/6d31d6b18722ce94521cb.jpg"
+            "value": "https://telegra.ph/file/e86bd2a707cb3dc9778c7.jpg"
         },
         "THUMB_IMG": {
             "description": "سيبــها زي مهي عادي يبا -> bg_image",
             "required": false,
-            "value": "https://telegra.ph/file/6d31d6b18722ce94521cb.jpg"
+            "value": "https://telegra.ph/file/e86bd2a707cb3dc9778c7.jpg"
         },
         "OWNER_NAME": {
             "description": "حط يوزركـــ منغــير -> @",
@@ -69,12 +69,12 @@
         "UPDATES_CHANNEL": {
             "description": "تحديثاتــ سورس يــوفـــو !!!",
             "required": false,
-            "value": "WzUserBoT"
+            "value": "its_stetch"
         },
         "GROUP_SUPPORT": {
             "description": "جروبــ الدعــم",
             "required": false,
-            "value": "WzSuPPort"
+            "value": "TXNX5"
         }
     },
     "buildpacks": [
